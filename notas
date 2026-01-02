@@ -1,0 +1,6 @@
+1. instalar Node
+2 npm install -g typescript
+
+compilação do arquivo: npx tsc app.ts 
+                        ou 
+                        tsc app.ts
