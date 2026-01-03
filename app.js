@@ -57,3 +57,8 @@ console.log(naoSabemos)
 let listaIndefina: any[] = [1,'teste',true]
 console.log(listaIndefina)
  */
+/* Aula 7 - Void */
+function testandoVoid() {
+    console.log('Executando uma função com tipo void');
+}
+testandoVoid();
