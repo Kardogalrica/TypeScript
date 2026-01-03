@@ -49,3 +49,17 @@ let numeroDeMotores = Barco.Motor
 Barco.Motor = '2 Motores'
 
 console.log(numeroDeMotores) */
+
+/* Aula 6 - Any
+
+let naoSabemos: any
+
+naoSabemos = 'teste'
+naoSabemos = 3
+naoSabemos = true
+
+console.log(naoSabemos)
+
+let listaIndefina: any[] = [1,'teste',true]
+console.log(listaIndefina)
+ */
