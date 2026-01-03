@@ -40,3 +40,12 @@ let aviao: [string, boolean, number, string]
 
 aviao = ['boening',true,5,'10 turbinas']
 console.log(aviao) */
+
+/* Aula 5 - Enum
+enum Barco {Motor = 2, Proa = 1, Popa = 1}
+
+let numeroDeMotores = Barco.Motor
+
+Barco.Motor = '2 Motores'
+
+console.log(numeroDeMotores) */
