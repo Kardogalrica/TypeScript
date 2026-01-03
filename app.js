@@ -29,4 +29,10 @@ let obj = {
 frutas.push(1)
 numeros.push('ola')
 
-obj.name = 2 */ 
+obj.name = 2 */
+/* Aula 4 - Tuplas
+
+let aviao: [string, boolean, number, string]
+
+aviao = ['boening',true,5,'10 turbinas']
+console.log(aviao) */ 
